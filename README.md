@@ -6,7 +6,6 @@ openSUSE TclSOAP RPM spec
 provides a mechanism to bind Tcl command procedures to remote procedure calls
 using the SOAP, XML-RPC or JSON-RPC.
 
-Source code is from [TclSOAP CVS](http://tclsoap.cvs.sourceforge.net/viewvc/tclsoap/tclsoap/).
-
 TclSOAP 1.6.8 (or higher version) requires tDOM.
 
+SourceForge remove CVS web service, now you can find source code at [github](https://github.com/tcl-mirror/tclsoap).
